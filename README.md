@@ -1,7 +1,8 @@
 # ProjetoLop
 etapa 1
 //Nome:João André Da Silva júnior;Subturma:D
-    function setup() {
+    
+  function setup() {
   createCanvas(400, 400);
 }
 
